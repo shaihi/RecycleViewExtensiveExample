@@ -3,11 +3,11 @@ plugins {
 }
 
 android {
-    namespace = "com.shaihi.practicerecyclebviewein"
+    namespace = "com.shaihi.RecycleViewExtensiveExample"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.shaihi.practicerecyclebviewein"
+        applicationId = "com.shaihi.RecycleViewExtensiveExample"
         minSdk = 30
         targetSdk = 34
         versionCode = 1

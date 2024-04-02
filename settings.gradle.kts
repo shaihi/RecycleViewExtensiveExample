@@ -13,6 +13,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "PracticeRecycleBViewEin"
+rootProject.name = "RecycleViewExtensiveExample"
 include(":app")
  

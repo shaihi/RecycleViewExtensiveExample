@@ -1,4 +1,4 @@
-package com.shaihi.practicerecyclebviewein;
+package com.shaihi.RecycleViewExtensiveExample;
 
 public class GalleryModel {
     int image;

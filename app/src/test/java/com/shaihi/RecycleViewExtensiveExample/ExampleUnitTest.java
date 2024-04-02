@@ -1,4 +1,4 @@
-package com.shaihi.practicerecyclebviewein;
+package com.shaihi.RecycleViewExtensiveExample;
 
 import org.junit.Test;
 
